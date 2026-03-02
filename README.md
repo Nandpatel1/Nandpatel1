@@ -59,8 +59,3 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/nand-makadia/  
 - 📧 Email: nandpatel01218@gmail.com  
 
----
-
-<p align="center">
-  ⚡ Consistency beats intensity.
-</p>
