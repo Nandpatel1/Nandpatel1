@@ -12,7 +12,6 @@
 - 💻 I enjoy building full-stack web applications  
 - 🧠 Strong foundation in DSA & backend fundamentals  
 - ⚙️ Currently exploring System Design & LLD  
-- 🌱 Always learning, always improving  
 - 📍 India  
 
 ---
