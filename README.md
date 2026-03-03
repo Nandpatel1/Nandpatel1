@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nand Makadia</h1>
-<h3 align="center">🚀 Software Developer | Problem Solver | Tech Explorer</h3>
+<h3 align="center">🚀 Software Developer | Problem Solver </h3>
 
 <p align="center">
   Turning ideas into scalable web applications.
