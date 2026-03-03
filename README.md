@@ -42,14 +42,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nandpatel1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🧩 What I Like Working On
 
 - 🔹 Backend systems  
