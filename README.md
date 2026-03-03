@@ -42,15 +42,6 @@
 
 ---
 
-## 🧩 What I Like Working On
-
-- 🔹 Backend systems  
-- 🔹 Clean & maintainable code  
-- 🔹 Problem solving  
-- 🔹 Building useful side projects  
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/nand-makadia/  
